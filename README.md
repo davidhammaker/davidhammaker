@@ -2,10 +2,11 @@ Welcome to my GitHub profile!
 
 Most of my coding hours are spent at work, but I have a couple of personal projects that I work on from time to time. These projects sometimes end up here.
 
-My latest project is `SkyWrite`, a note-taking web application. I started this project after having a very poor experience with Microsoft's OneNote app for Android.
+My latest project is `Sky-Write`, a note-taking web application. I started this project after having a very poor experience with Microsoft's OneNote app for Android. Please feel free to try it out! The web app has been deployed here: https://sky-write.app
 
 Thank you for visiting!
 
+<!---
 If you would like to try `SkyWrite`, you can visit its back-end and UI repos from this page, or you can run this script to try it immediately (requires Docker and Yarn, at least):
 
 ```sh
@@ -32,7 +33,7 @@ yarn start
 ```
 
 - If any part of this script gives you an error, please let me know! My email address is on this profile.
-
+--->
 <!---
 - 👋 Hi, I’m @davidhammaker
 - 👀 I’m interested in ...
